@@ -1,0 +1,5 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option PermSize=64m; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=512m; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: Cannot open file logs/gc.log due to No such file or directory
+
+错误: 找不到或无法加载主类 .home.jasoncc.code.zkui.src.main.java.com.deem.zkui.Main
